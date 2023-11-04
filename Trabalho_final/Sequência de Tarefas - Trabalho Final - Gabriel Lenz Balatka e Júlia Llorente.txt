@@ -1,0 +1,35 @@
+Alunos: Gabriel Lenz Balatka e Júlia Llorente.
+
+Lista com a sequência das tarefas realizadas no trabalho final:
+
+15/11 -> 17:30-22h - Busca das imagens e modelagem do projeto.
+
+
+19/11 -> 13-17h - Criação da classe Chao e renderização do mapa.
+          funções: gerar_linhas_aleatorias e criar_cubos e exibir.
+
+20/11 -> 17-20h - Continuação do desenvolvimento da classe Chao e inicialização da classe Player.
+          funções: avancar, mover, verificar_movimento e exibir.
+
+23/11 -> 19-21h - Resolver problemas e teste de movimentação.
+          funcões: teclado, teclado_especial e mouse.
+
+25/11 -> 19-22h - Criação da classe Game.
+          funções: carregar_textura, usar_textura e colocar_textura.
+
+27/11 -> 15-19h - Continuação da classe Game e criação da classe Cubo.
+          funções: colocar_planos, mudar_tamanho_tela e exibir.
+
+01/12 -> 18-21h - Resolver problemas e teste de colisão.
+          funções: alterações em gerar_linhas_aleatorias, verificar_movimento e mover.
+
+03/12 -> 13-18h - Criação da classe Musgo e alteração na classe Chao.
+          funções: exibir e criar_cubos.
+
+04/12 -> 18-20h - Criação da classe Arvore, criação da classe Tronco e alteração na classe Chao.
+          funções: exibir e criar_cubos.
+
+08/12 -> 17-22h - Finalização do projeto com algumas alterações e testes.
+	 funções: alterações em renderizacao_cena e mudar_tamanho_tela
+
+Tempo total: Aproximadamente 35 horas e 30 minutos.
